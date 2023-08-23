@@ -1,0 +1,16 @@
+______________Another session______________
+Game 1 : Red = 44 | Black = 30
+     Red wins.
+
+Game 2 : Red = 47 | Black = 62
+     Black wins.
+
+Game 3 : Red = 61 | Black = 16
+     Red wins.
+
+Game 4 : Red = 32 | Black = 34
+     Red wins.
+
+Game 5 : Red = 21 | Black = 41
+     Black wins.
+
